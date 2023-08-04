@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 889794c411054f7ca8e6fbdc6728c846, type: 3}
+  m_Name: _UIViewDatabase
+  m_EditorClassIdentifier: 
+  DatabaseType: 2
+  CategoryNames:
+  - Custom
+  - Admin
+  - ArView
+  - Example
+  - Gallery
+  - Games
+  - General
+  - Navigation
+  - OnBoarding
+  - ThemeDetails
+  - Preloader
+  - Popup
+  Categories:
+  - {fileID: 11400000, guid: afa6ab1e8bef247429b21936ac0429a5, type: 2}
+  - {fileID: 11400000, guid: c9be6624705dab149a1da743f2e71147, type: 2}
+  - {fileID: 11400000, guid: b01e98f4801f7124ba39e1dac4debf90, type: 2}
+  - {fileID: 11400000, guid: deaf73310dddb284eb6de2c3164c380c, type: 2}
+  - {fileID: 11400000, guid: d779463473530e74281a8b63e9e8804f, type: 2}
+  - {fileID: 11400000, guid: 9b9efef656a55ac468ea5ea11f7fa6af, type: 2}
+  - {fileID: 11400000, guid: 632e71c09cb9ef5408962b5889400af2, type: 2}
+  - {fileID: 11400000, guid: bfccbd7b705522f44a912e3dbcd040be, type: 2}
+  - {fileID: 11400000, guid: d7bac3668c62a554a82ab5aef65c6b43, type: 2}
+  - {fileID: 11400000, guid: 464e4dcd9cebee048b1d2229464e9cf4, type: 2}
+  - {fileID: 11400000, guid: 9fc1ce721c4a4c5449a82883bbd092a4, type: 2}

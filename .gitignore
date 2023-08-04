@@ -1,0 +1,68 @@
+###
+# Unity folders and files
+###
+[Aa]ssets/AssetStoreTools*
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
+[Mm]emory[Cc]aptures/
+.vs/
+.idea/
+[Rr]ecordings/
+# file on crash reports
+sysinfo.txt
+# Unity3D generated meta files
+*.pidb.meta
+
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+.DS_Store
+
+###
+# OS generated
+###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+N3_GuideVanilla/todo.txt
+/older builds
+/AssetBundles
+/Assets/Editor/AVProVideoSamples/BigBuckBunny-360p30-H264.mp4
+/Assets/Editor/AVProVideoSamples/BigBuckBunny-360p30-H264.mp4.meta
+/Assets/Editor/AVProVideoSamples/Cones-2D-1080p60-H264.mp4
+/Assets/Editor/AVProVideoSamples/Cones-2D-1080p60-H264.mp4.meta
+/Assets/Editor/AVProVideoSamples/Cones-360Mono-4K30-H264.mp4
+/Assets/Editor/AVProVideoSamples/Cones-360Mono-4K30-H264.mp4.meta
+/Assets/Editor/AVProVideoSamples/Cones-360Stereo-2K30-H264.mp4
+/Assets/Editor/AVProVideoSamples/Cones-360Stereo-2K30-H264.mp4.meta
+/Assets/Editor/AVProVideoSamples/Cones-Transparent-2K60-H264.mp4
+/Assets/Editor/AVProVideoSamples/Cones-Transparent-2K60-H264.mp4.meta
+/Assets/Editor/AVProVideoSamples/RenderHeads-1080p30-H264.mp4
+/Assets/Editor/AVProVideoSamples/RenderHeads-1080p30-H264.mp4.meta
+/Assets/Editor/ArVideos/Heli Center portret ENGx2.mp4
+/Assets/Editor/ArVideos/Heli Center portret ENGx2.mp4.meta
+/Assets/Editor/AudioStream/24ch_polywav_16bit_48k.wav
+/Assets/Editor/AudioStream/429956__jack-master__fat-drum-loop-80-bpm-1.wav
+/Assets/Editor/AudioStream/429957__jack-master__fat-drum-loop-80-bpm-2.wav
+/Assets/Editor/AudioStream/Leonard-Orfeo_Trio.wav
+/Assets/Editor/AudioStream/electronic-senses-shibuya.mp3

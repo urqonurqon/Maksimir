@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a151aae416b497c9eaea8aa5ac1c555, type: 3}
+  m_Name: Theme_General
+  m_EditorClassIdentifier: 
+  m_themeName: General
+  SerializedGuid: f3272dd8026aed45ae939aeba3126e40
+  m_activeVariant:
+    m_variantName: Default
+    SerializedGuid: 843584d867b0ec4381ae798380638abb
+    Colors:
+    - m_color: {r: 0.7529412, g: 0.078431375, b: 0.078431375, a: 1}
+      SerializedGuid: 5235e89ff49bf24aa649b47fd5b4c649
+    - m_color: {r: 0.85882354, g: 0.12156863, b: 0.14901961, a: 1}
+      SerializedGuid: 6a0dd4a8bea07f4597d263d6435305ea
+    - m_color: {r: 0, g: 0, b: 0, a: 1}
+      SerializedGuid: 8d4a8977b923694c871be82a2299ed09
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: f1f365b828762844873b11bb03bc2d1d
+    - m_color: {r: 0.6, g: 0.6, b: 0.6, a: 1}
+      SerializedGuid: 9e6ed44d3b60db42856a51770ca590fc
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: a1797dc75382fc4ab2475d153080cef3
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 7bfccca967765244af87cf50ece8c66d
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 7f8624e073bbce4fa1645cc58f1f4914
+    - m_color: {r: 0.09411765, g: 0.09411765, b: 0.09411765, a: 1}
+      SerializedGuid: 44073ada43a1a240abb0bf2cad459033
+    - m_color: {r: 0.33333334, g: 0.33333334, b: 0.33333334, a: 1}
+      SerializedGuid: b8f9b75295b0f249b7fb9fb5a237794e
+    Sprites:
+    - m_sprite: {fileID: 227870468056772888, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 3bdec28744293b488daafcde45852ffd
+    - m_sprite: {fileID: -6557432320838177357, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 16dbd2627c89db4cbd165a258d022e38
+    - m_sprite: {fileID: -1812189075080881511, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 0342e0ff8ab7bb4193f8f4900d673e5e
+    - m_sprite: {fileID: -8661354108028281507, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 2e107d43d87ed54abe6870aa178bf95c
+    - m_sprite: {fileID: 6664141203917026887, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 546b2e89170d6e42ade2e26cedef2c43
+    - m_sprite: {fileID: -806802356861851247, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 9acc8aada094484ca057583c74345643
+    - m_sprite: {fileID: 5809277828178135462, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 804f910330e5604a9daf879c49eef2da
+    - m_sprite: {fileID: -4953974160813146288, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 8369fc41710a694ebeeaa4160dd32f51
+    - m_sprite: {fileID: -132151440539300225, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 117d92b483291741ac8f46327a12934b
+    - m_sprite: {fileID: -8785697826170869915, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 03ecdd77aa966f4ba8c269a2c7982886
+    Textures:
+    - m_texture: {fileID: 0}
+      SerializedGuid: 991dae576e600a47a1a0af9f4911c15a
+    Fonts: []
+    FontAssets:
+    - SerializedGuid: af3c61ecdba86a48ba512a57b26ed308
+    - SerializedGuid: 14b150794a077745811d55b930ee4e6d
+  ColorLabels:
+  - m_label: Primary
+    SerializedGuid: 5235e89ff49bf24aa649b47fd5b4c649
+  - m_label: Secondary
+    SerializedGuid: 6a0dd4a8bea07f4597d263d6435305ea
+  - m_label: Third
+    SerializedGuid: 8d4a8977b923694c871be82a2299ed09
+  - m_label: Fourth
+    SerializedGuid: f1f365b828762844873b11bb03bc2d1d
+  - m_label: Fifth
+    SerializedGuid: 9e6ed44d3b60db42856a51770ca590fc
+  - m_label: Disabled
+    SerializedGuid: a1797dc75382fc4ab2475d153080cef3
+  - m_label: ThemeListTitleText
+    SerializedGuid: 7bfccca967765244af87cf50ece8c66d
+  - m_label: ThemeListLabelText
+    SerializedGuid: 7f8624e073bbce4fa1645cc58f1f4914
+  - m_label: Six
+    SerializedGuid: 44073ada43a1a240abb0bf2cad459033
+  - m_label: Title
+    SerializedGuid: b8f9b75295b0f249b7fb9fb5a237794e
+  SpriteLabels:
+  - m_label: BackIcon
+    SerializedGuid: 3bdec28744293b488daafcde45852ffd
+  - m_label: MediaTextIcon
+    SerializedGuid: 16dbd2627c89db4cbd165a258d022e38
+  - m_label: MediaARIcon
+    SerializedGuid: 0342e0ff8ab7bb4193f8f4900d673e5e
+  - m_label: ImpressumIcon
+    SerializedGuid: 2e107d43d87ed54abe6870aa178bf95c
+  - m_label: CircleElement
+    SerializedGuid: 546b2e89170d6e42ade2e26cedef2c43
+  - m_label: X-Icon
+    SerializedGuid: 9acc8aada094484ca057583c74345643
+  - m_label: ArBorder
+    SerializedGuid: 804f910330e5604a9daf879c49eef2da
+  - m_label: InterregLogo
+    SerializedGuid: 8369fc41710a694ebeeaa4160dd32f51
+  - m_label: DuraLogo
+    SerializedGuid: 117d92b483291741ac8f46327a12934b
+  - m_label: DumusLogoColor
+    SerializedGuid: 03ecdd77aa966f4ba8c269a2c7982886
+  TextureLabels:
+  - m_label: ImagePlaceholder
+    SerializedGuid: 991dae576e600a47a1a0af9f4911c15a
+  FontLabels: []
+  FontAssetLabels:
+  - m_label: BarlowMedium
+    SerializedGuid: af3c61ecdba86a48ba512a57b26ed308
+  - m_label: BarlowBold
+    SerializedGuid: 14b150794a077745811d55b930ee4e6d
+  VariantsNames:
+  - Default
+  - Variant2
+  Variants:
+  - m_variantName: Default
+    SerializedGuid: 843584d867b0ec4381ae798380638abb
+    Colors:
+    - m_color: {r: 0.7529412, g: 0.078431375, b: 0.078431375, a: 1}
+      SerializedGuid: 5235e89ff49bf24aa649b47fd5b4c649
+    - m_color: {r: 0.85882354, g: 0.12156863, b: 0.14901961, a: 1}
+      SerializedGuid: 6a0dd4a8bea07f4597d263d6435305ea
+    - m_color: {r: 0, g: 0, b: 0, a: 1}
+      SerializedGuid: 8d4a8977b923694c871be82a2299ed09
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: f1f365b828762844873b11bb03bc2d1d
+    - m_color: {r: 0.6, g: 0.6, b: 0.6, a: 1}
+      SerializedGuid: 9e6ed44d3b60db42856a51770ca590fc
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: a1797dc75382fc4ab2475d153080cef3
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 7bfccca967765244af87cf50ece8c66d
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 7f8624e073bbce4fa1645cc58f1f4914
+    - m_color: {r: 0.09411765, g: 0.09411765, b: 0.09411765, a: 1}
+      SerializedGuid: 44073ada43a1a240abb0bf2cad459033
+    - m_color: {r: 0.33333334, g: 0.33333334, b: 0.33333334, a: 1}
+      SerializedGuid: b8f9b75295b0f249b7fb9fb5a237794e
+    Sprites:
+    - m_sprite: {fileID: 227870468056772888, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 3bdec28744293b488daafcde45852ffd
+    - m_sprite: {fileID: -6557432320838177357, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 16dbd2627c89db4cbd165a258d022e38
+    - m_sprite: {fileID: -1812189075080881511, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 0342e0ff8ab7bb4193f8f4900d673e5e
+    - m_sprite: {fileID: -8661354108028281507, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 2e107d43d87ed54abe6870aa178bf95c
+    - m_sprite: {fileID: 6664141203917026887, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 546b2e89170d6e42ade2e26cedef2c43
+    - m_sprite: {fileID: -806802356861851247, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 9acc8aada094484ca057583c74345643
+    - m_sprite: {fileID: 5809277828178135462, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 804f910330e5604a9daf879c49eef2da
+    - m_sprite: {fileID: -4953974160813146288, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 8369fc41710a694ebeeaa4160dd32f51
+    - m_sprite: {fileID: -132151440539300225, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 117d92b483291741ac8f46327a12934b
+    - m_sprite: {fileID: -8785697826170869915, guid: 6a2e37efcc7e6244bb6d05f4744ed854, type: 3}
+      SerializedGuid: 03ecdd77aa966f4ba8c269a2c7982886
+    Textures:
+    - m_texture: {fileID: 0}
+      SerializedGuid: 991dae576e600a47a1a0af9f4911c15a
+    Fonts: []
+    FontAssets:
+    - SerializedGuid: af3c61ecdba86a48ba512a57b26ed308
+    - SerializedGuid: 14b150794a077745811d55b930ee4e6d
+  - m_variantName: Variant2
+    SerializedGuid: dcf3105bc5a87943a6c9e5a88c701482
+    Colors:
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 5235e89ff49bf24aa649b47fd5b4c649
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 6a0dd4a8bea07f4597d263d6435305ea
+    - m_color: {r: 0, g: 0, b: 0, a: 0.7411765}
+      SerializedGuid: 8d4a8977b923694c871be82a2299ed09
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: f1f365b828762844873b11bb03bc2d1d
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 9e6ed44d3b60db42856a51770ca590fc
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: a1797dc75382fc4ab2475d153080cef3
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 7bfccca967765244af87cf50ece8c66d
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 7f8624e073bbce4fa1645cc58f1f4914
+    - m_color: {r: 1, g: 1, b: 1, a: 1}
+      SerializedGuid: 44073ada43a1a240abb0bf2cad459033
+    - m_color: {r: 0.33333334, g: 0.33333334, b: 0.33333334, a: 1}
+      SerializedGuid: b8f9b75295b0f249b7fb9fb5a237794e
+    Sprites:
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 3bdec28744293b488daafcde45852ffd
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 16dbd2627c89db4cbd165a258d022e38
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 0342e0ff8ab7bb4193f8f4900d673e5e
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 2e107d43d87ed54abe6870aa178bf95c
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 546b2e89170d6e42ade2e26cedef2c43
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 9acc8aada094484ca057583c74345643
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 804f910330e5604a9daf879c49eef2da
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 8369fc41710a694ebeeaa4160dd32f51
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 117d92b483291741ac8f46327a12934b
+    - m_sprite: {fileID: 0}
+      SerializedGuid: 03ecdd77aa966f4ba8c269a2c7982886
+    Textures:
+    - m_texture: {fileID: 0}
+      SerializedGuid: 991dae576e600a47a1a0af9f4911c15a
+    Fonts: []
+    FontAssets:
+    - SerializedGuid: af3c61ecdba86a48ba512a57b26ed308
+    - SerializedGuid: 14b150794a077745811d55b930ee4e6d

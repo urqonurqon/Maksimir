@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fc70c1807859b9b46bb4866995c319df
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dala Floda
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 37c5d66f80301ac4689568d1e91ac6fd, type: 3}
+  - {fileID: 12800000, guid: 28b5af4b20424414bb5f3aa51d19ec4c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
